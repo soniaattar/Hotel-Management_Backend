@@ -1,2 +1,2 @@
-# Hotel-Management_Backend
+# Hospital-Management_Backend
 Backend for hospitalmanagement app made in node js 
